@@ -1,4 +1,4 @@
-# rest-api-playground
+# BLOG POST REST API using EXPRESS, MONGODB, NODE.JS
 
 # API DOCUMENTATION
 
