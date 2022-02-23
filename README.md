@@ -1,6 +1,7 @@
 # BLOG POST REST API using EXPRESS, MONGODB, NODE.JS
 
 # API DOCUMENTATION
+# RUN THE CODE IN THE LOCAL REPOSITORY
 
 # 1. Get Post List      -> (GET) http://localhost:3000/
 
