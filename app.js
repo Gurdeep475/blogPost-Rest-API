@@ -12,4 +12,3 @@ mongoose.connect(process.env.DB_CONNECTION)
     app.listen(3000);   // listening to port 3000
 })
 .catch(err => console.log(err));
-
